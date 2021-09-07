@@ -2,4 +2,6 @@ Rencana Belajar Mariani
 - HTML
 - PHP
 - JavaScript
+  * ES6
+  * Framework JavaScript
 - Android
